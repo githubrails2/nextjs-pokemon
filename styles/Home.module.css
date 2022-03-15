@@ -1,0 +1,8 @@
+.grid {
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	grid-row: 10px;
+}
+.card img {
+	max-height: 200px;
+}
